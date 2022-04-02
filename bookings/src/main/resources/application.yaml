@@ -1,0 +1,5 @@
+spring.data.cassandra.keyspace-name=bezkoder
+
+server.servlet.context-path=/api/bookings/
+
+port=8080
